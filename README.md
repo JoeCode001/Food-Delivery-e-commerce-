@@ -64,8 +64,7 @@
 - **Backend**: Node.js, Express  
 - **Database**: MongoDB  
 - **Authentication**: JWT  
-- **Payments**: Stripe API  
-- **Deployment**: Vercel (Frontend), Render (Backend)  
+- **Payments**: Stripe API   
 
 ---
 
