@@ -41,20 +41,20 @@
 - Address selection and order review.  
 
 ### 5. Payment Page (Stripe)  
-![Payment Page](https://example.com/payment.jpg)  
+![Payment Page](./readme_img/project-8-checkout.png)  
 - Secure card input and payment processing.  
 
 ### 6. Admin Panel  
 #### All Orders  
-![Admin Orders](https://example.com/admin-orders.jpg)  
+![Admin Orders](./readme_img/project-8-admin-orders.png)  
 - View, cancel, or update order statuses.  
 
 #### All Products  
-![Admin Products](https://example.com/admin-products.jpg)  
+![Admin Products](./readme_img/project-8-admin-list_items.png)  
 - Edit/delete existing menu items.  
 
 #### Add Product  
-![Add Product](https://example.com/add-product.jpg)  
+![Add Product](./readme_img/project-8-admin-add_items.png)  
 - Upload new items with images and descriptions.  
 
 ---
