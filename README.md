@@ -2,7 +2,7 @@
 
 **Your ultimate food delivery app!** Order from local restaurants, enjoy seamless checkout, and track deliveries in real-time. Built with modern web technologies and secure payments via Stripe.  
 
-![BiteExpress Demo](./readme_img/project-8.png) *(Replace with your homepage image URL)*  
+![BiteExpress Demo](./readme_img/project-8.png) 
 
 ---
 
